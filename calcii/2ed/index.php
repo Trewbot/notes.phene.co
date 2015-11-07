@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b>calculus ii &ndash; 2ed.</b>
+			<b><a href="//notes.phene.co/calcii">calculus ii</a> &ndash; <a href="//notes.phene.co/calcii/2ed">2ed.<a></b>
 			<hr>
 			Page:
 			<?	$files = array_diff(scandir('.'), array('..','.'));

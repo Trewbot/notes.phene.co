@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b>ap chemistry &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
+			<b><a href="//notes.phene.co/apchem">ap chemistry</a> &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
 			<hr>
 			<a href="//notes.phene.co/apchem/1ed">1ed.<a>
 		</div>

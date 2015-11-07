@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b>ap physics c: mechanics &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
+			<b><a href="//notes.phene.co/apphyscmech">ap physics c: mechanics</a> &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
 			<hr>
 			<a href="//notes.phene.co/apphyscmech/1ed">1ed.<a>
 		</div>

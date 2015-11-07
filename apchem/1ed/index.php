@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b>ap chemistry &ndash; 1ed.</b>
+			<b><a href="//notes.phene.co/apchem">ap chemistry</a> &ndash; <a href="//notes.phene.co/apchem/1ed">1ed.<a></b>
 			<hr>
 			Page:
 			<?	$files = array_diff(scandir('.'), array('..','.'));

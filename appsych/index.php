@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b>ap psychology &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
+			<b><a href="//notes.phene.co/appsych">ap psychology</a> &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
 			<hr>
 			<a href="//notes.phene.co/appsych/2ed">2ed.<a>
 		</div>
