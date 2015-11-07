@@ -15,10 +15,15 @@
 <body>
 	<div class="content">
 		<div>
-			<b><a href="//notes.phene.co/calci">calculus i</a> &mdash; <a href="//phene.co/trewbot">notes by trevor hoglund</a></b>
+			<b><a href="//notes.phene.co/calci">calculus i</a> &ndash; <a href="//notes.phene.co/calci/4ed">4ed.<a></b>
 			<hr>
-			<a href="//notes.phene.co/calci/3ed">3ed.<a>,
-			<a href="//notes.phene.co/calci/4ed">4ed.<a>
+			Page:
+			<?	$files = array_diff(scandir('.'), array('..','.'));
+				for($i = 2; $i < count($files)+2; $i++) if(count(explode(' ',$files[$i]))==2) $files[$i] = explode(' ',explode('.',$files[$i])[0])[1];
+				sort($files);
+				foreach($files as $file): if(count(explode('.',$file))!==2):?>
+				<a href="Page <?=$file?>.jpg"><?=$file?></a>
+			<?	endif; endforeach; ?>
 		</div>
 		
 		
