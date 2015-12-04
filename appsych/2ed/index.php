@@ -30,7 +30,7 @@
 		<br><br>
 		
 		<p>
-			<a href="//notes.phene.co">notes</a>
+			<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a> / <a href="//notes.phene.co/appsych">ap psychology</a>
 		</p>
 	</div>
 </body>

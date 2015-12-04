@@ -30,7 +30,7 @@
 		<br><br>
 		
 		<p>
-			<a href="//notes.phene.co">notes</a>
+			<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a> / <a href="//notes.phene.co/aparthist">ap art history</a>
 		</p>
 	</div>
 </body>

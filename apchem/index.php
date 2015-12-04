@@ -24,7 +24,7 @@
 		<br><br>
 		
 		<p>
-			<a href="//notes.phene.co">notes</a>
+			<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a>
 		</p>
 	</div>
 </body>
