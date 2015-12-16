@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b><a href="//notes.phene.co/apgov">ap government</a> &mdash; <a href="//phene.co/trewbot">notes by trevor j hoglund</a></b>
+			<b><a href="//notes.phene.co/apgov">ap government</a> &mdash; <a href="//trevorjhoglund.com">notes by trevor j hoglund</a></b>
 			<hr>
 			<a href="//notes.phene.co/apgov/2ed">2ed.</a>
 		</div>

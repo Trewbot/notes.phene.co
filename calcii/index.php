@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b><a href="//notes.phene.co/calcii">calculus ii</a> &mdash; <a href="//phene.co/trewbot">notes by trevor j hoglund</a></b>
+			<b><a href="//notes.phene.co/calcii">calculus ii</a> &mdash; <a href="//trevorjhoglund.com">notes by trevor j hoglund</a></b>
 			<hr>
 			<a href="//notes.phene.co/calcii/2ed">2ed.<a>,
 			<a href="//notes.phene.co/calcii/3ed">3ed.<a>

@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b><a href="//notes.phene.co/linalg">linear algebra</a> &mdash; <a href="//phene.co/trewbot">notes by trevor j hoglund</a></b>
+			<b><a href="//notes.phene.co/linalg">linear algebra</a> &mdash; <a href="//trevorjhoglund.com">notes by trevor j hoglund</a></b>
 			<hr>
 			<a href="//notes.phene.co/linalg/1ed">1ed.<a>
 		</div>
