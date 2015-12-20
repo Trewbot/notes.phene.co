@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>notes.phene.co</title>
+	<title>notes.phene.co / ap art history</title>
 	<link rel="stylesheet" href="//phene.co/style.css">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -17,7 +17,7 @@
 		<div>
 			<b><a href="//notes.phene.co/aparthist">ap art history</a> &mdash; <a href="//trevorjhoglund.com">notes by trevor j hoglund</a></b>
 			<hr>
-			<a href="//notes.phene.co/aparthist/1ed">1ed.<a>
+			<a href="//notes.phene.co/aparthist/1ed">1ed.</a>
 		</div>
 		
 		

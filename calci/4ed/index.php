@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>notes.phene.co</title>
+	<title>notes.phene.co / calculus i</title>
 	<link rel="stylesheet" href="//phene.co/style.css">
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -15,7 +15,7 @@
 <body>
 	<div class="content">
 		<div>
-			<b><a href="//notes.phene.co/calci">calculus i</a> &ndash; <a href="//notes.phene.co/calci/4ed">4ed.<a></b>
+			<b><a href="//notes.phene.co/calci">calculus i</a> &ndash; <a href="//notes.phene.co/calci/4ed">4ed.</a></b>
 			<hr>
 			Page:
 			<?	$files = array_diff(scandir('.'), array('..','.'));
