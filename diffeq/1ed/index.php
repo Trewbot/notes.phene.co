@@ -15,17 +15,22 @@
 <body>
 	<div class="content">
 		<div>
-			<b><a href="//notes.phene.co/diffeq">differential equations</a> &mdash; <a href="//trevorjhoglund.com">notes by trevor j hoglund</a></b>
+			<b><a href="//notes.phene.co/diffeq">differential equations</a> &ndash; <a href="//notes.phene.co/diffeq/1ed">1ed.<a></b>
 			<hr>
-			<a href="//notes.phene.co/diffeq/1ed">1ed.<a>,
-			<a href="//notes.phene.co/diffeq/2ed">2ed.<a>
+			Page:
+			<?	$files = array_diff(scandir('.'), array('..','.'));
+				for($i = 2; $i < count($files)+2; $i++) if(count(explode(' ',$files[$i]))==2) $files[$i] = explode(' ',explode('.',$files[$i])[0])[1];
+				sort($files);
+				foreach($files as $file): if(count(explode('.',$file))!==2):?>
+				<a href="Page <?=$file?>.jpg"><?=$file?></a>
+			<?	endif; endforeach; ?>
 		</div>
 		
 		
 		<br><br>
 		
 		<p>
-			<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a>
+			<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a> / <a href="//notes.phene.co/diffeq">differential equations</a>
 		</p>
 	</div>
 </body>
