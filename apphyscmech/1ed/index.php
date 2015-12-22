@@ -17,7 +17,8 @@
 		<div>
 			<b><a href="//notes.phene.co/apphyscmech">ap physics c: mechanics</a> &ndash; <a href="//notes.phene.co/apphyscmech/1ed">1ed.</a></b>
 			<hr>
-			Page:
+			<script src="//scripts.phene.co/popup/0.1.0.0013"></script><a lightbox onclick="_g.pu.lightbox('api','read.php','pages.*',0);">read</a>,
+			page:
 			<?	$files = array_diff(scandir('.'), array('..','.'));
 				for($i = 2; $i < count($files)+2; $i++) if(count(explode(' ',$files[$i]))==2) $files[$i] = explode(' ',explode('.',$files[$i])[0])[1];
 				sort($files);
@@ -26,12 +27,10 @@
 			<?	endif; endforeach; ?>
 		</div>
 		
+		<br>
+		<br>
 		
-		<br><br>
-		
-		<p>
-			<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a> / <a href="//notes.phene.co/apphyscmech">ap physics c: mechanics</a>
-		</p>
+		<a href="//notes.phene.co">notes</a> . <a href="//phene.co">phene.co</a> / <a href="//notes.phene.co/apphyscmech">ap physics c: mechanics</a>
 	</div>
 </body>
 </html>
