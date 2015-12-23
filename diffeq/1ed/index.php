@@ -11,6 +11,13 @@
 		ga('create', 'UA-67481186-2', 'auto');
 		ga('send', 'pageview');
 	</script>
+	<style>
+		html		{background:url('http://trevorjhoglund.com/bg/diffeq.jpg');background-attachment:fixed;color:#fff;background-size:cover;background-position:center center;}
+		a, a:hover	{color:#fff !important;}
+		hr			{background:#fff;}
+		span		{color:#ddd;}
+		.content	{background:rgba(0,0,0,0.2);padding:40px;margin-top:calc(50vh - 140px);}
+	</style>
 </head>
 <body>
 	<div class="content">
