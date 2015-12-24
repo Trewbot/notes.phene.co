@@ -6,7 +6,7 @@
 			"notes.phene.co"
 		];
 		// $bg = "http://trevorjhoglund.com/bg/notes.jpg";
-		require_once('./assets/head.php');
+		require_once($_SERVER['DOCUMENT_ROOT'].'./assets/head.php');
 	?>
 </head>
 <body>
